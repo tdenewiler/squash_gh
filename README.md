@@ -1,3 +1,5 @@
 # Squash Example
 
 a
+
+b

@@ -1,1 +1,1 @@
-# squash_gh
+# Squash Example
